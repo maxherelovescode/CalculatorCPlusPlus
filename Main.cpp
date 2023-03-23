@@ -1,3 +1,6 @@
+// C++ Calculator by Max Hewin
+// Shoutout to chatgpt for helping me at times you a real one
+
 #include <iostream>
 #include "Main.h"
 using namespace std;
